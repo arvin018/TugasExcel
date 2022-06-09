@@ -35,7 +35,7 @@
         }
     </style>
     <center>
-        <h1>Export Data Ke Excel Dengan PHP oye <br /> www.malasngoding.com</h1>
+        <h1>Export Data Ke Excel Dengan PHP tanpa database mysqli </h1>
     </center>
 
     <center>
